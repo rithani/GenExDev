@@ -1,0 +1,6 @@
+E:\My projects\inline edit\GenEx Analytics\Misc\GenEx-MonthEndManagement\GenExBusinessLogic\bin\Release\GenExBusinessLogic.dll
+E:\My projects\inline edit\GenEx Analytics\Misc\GenEx-MonthEndManagement\GenExBusinessLogic\bin\Release\GenExBusinessLogic.pdb
+E:\My projects\inline edit\GenEx Analytics\Misc\GenEx-MonthEndManagement\GenExBusinessLogic\obj\Release\GenExBusinessLogic.csprojResolveAssemblyReference.cache
+E:\My projects\inline edit\GenEx Analytics\Misc\GenEx-MonthEndManagement\GenExBusinessLogic\obj\Release\GenExBusinessLogic.csproj.CoreCompileInputs.cache
+E:\My projects\inline edit\GenEx Analytics\Misc\GenEx-MonthEndManagement\GenExBusinessLogic\obj\Release\GenExBusinessLogic.dll
+E:\My projects\inline edit\GenEx Analytics\Misc\GenEx-MonthEndManagement\GenExBusinessLogic\obj\Release\GenExBusinessLogic.pdb
